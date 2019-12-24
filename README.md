@@ -1,2 +1,2 @@
-# joshmtucker.github.io
-Personal site https://joshmtucker.com
+# Personal site
+https://joshmtucker.com
